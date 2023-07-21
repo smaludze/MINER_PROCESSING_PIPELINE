@@ -1,0 +1,2 @@
+/data2/Run39_NSC_BIN
+39211208_sapphire7_4_2_14_DG20_Digi64Ch_noTR_gndFoil_BIN2
